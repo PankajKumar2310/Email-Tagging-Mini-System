@@ -1,4 +1,4 @@
-# Hiver – AI Intern Evaluation Assignment
+# Hiver –  Assignment
 
 This repository contains my solution to the Hiver AI Intern Assignment, covering:
 
