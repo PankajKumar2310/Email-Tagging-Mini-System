@@ -1,0 +1,25 @@
+Title: Setting Up SLAs in Hiver
+
+Service Level Agreements (SLAs) help teams ensure timely responses.
+
+Steps:
+1. Navigate to Settings > SLA Policies.
+2. Click "Create SLA".
+3. Choose a rule type:
+   - First response time
+   - Resolution time
+4. Add filters (optional):
+   - Tags
+   - Email subject
+   - Customer tier
+5. Select actions on breach:
+   - Assign tag
+   - Escalate
+   - Notify manager
+
+Note:
+SLAs only apply to active conversations and require automation enabled.
+
+Best Practices:
+- Use separate SLAs for VIP accounts.
+- Monitor SLA performance weekly.

@@ -1,0 +1,16 @@
+Title: Fixing Email Loading or UI Performance Issues
+
+If Hiver loads slowly or freezes:
+
+Possible Causes:
+- Large attachments
+- Browser extensions interfering
+- Heavy workload on account
+
+Fix:
+- Clear cache and cookies
+- Disable unused extensions
+- Update to latest Chrome version
+- Try in Incognito mode
+
+If delays exceed 8–10 seconds consistently, escalate to support.

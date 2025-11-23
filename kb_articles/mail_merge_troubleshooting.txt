@@ -1,0 +1,19 @@
+Title: Troubleshooting Mail Merge Issues
+
+If a Mail Merge fails or gets stuck:
+
+Checklist:
+1. Ensure your CSV contains valid email addresses.
+2. Avoid duplicate or empty rows.
+3. Check that Mail Merge is enabled for your inbox.
+4. Large attachments may delay sending.
+
+Fixes:
+- Re-upload the CSV and preview before sending.
+- Refresh the browser and retry.
+- If queued for longer than 5 minutes, contact support.
+
+Mail Merge works best for:
+✓ Follow-ups  
+✓ Surveys  
+✓ Newsletter-style outreach

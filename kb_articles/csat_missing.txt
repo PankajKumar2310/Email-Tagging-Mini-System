@@ -1,0 +1,21 @@
+Title: Why is CSAT Not Appearing?
+
+If CSAT scores or survey responses are not visible in Analytics, try the following:
+
+Common Causes:
+- CSAT feature is disabled for the shared inbox.
+- Surveys are not configured for the correct workflow.
+- Email volume is too low to generate reports.
+- Time filters may hide available results.
+
+Fix Steps:
+1. Go to Settings > CSAT > Enable CSAT.
+2. Select which inboxes should send CSAT surveys.
+3. Verify that the survey rule is active and has no conflicts.
+4. Check the Analytics date filters.
+5. Refresh the dashboard or wait up to 15 minutes for data sync.
+
+If the issue persists, contact support with:
+- Inbox name
+- Screenshot of CSAT settings
+- Approximate affected date range

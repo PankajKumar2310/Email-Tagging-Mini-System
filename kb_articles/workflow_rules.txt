@@ -1,0 +1,16 @@
+Title: Creating Workflow Rules
+
+Workflow rules help automate task creation, assignment, and tagging.
+
+Setup:
+1. Open Settings > Workflows.
+2. Click "Create Rule".
+3. Add conditions (ex: "Subject contains Invoice").
+4. Choose workflow actions:
+   - Add tag
+   - Assign owner
+   - Update conversation state
+
+Common Issues:
+- Conflicting rules may prevent proper execution.
+- Disabled workflows will not run even if conditions match.

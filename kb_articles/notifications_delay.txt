@@ -1,0 +1,15 @@
+Title: Why Notifications May Be Delayed
+
+Common reasons for delayed desktop or mobile notifications:
+
+- High email processing load.
+- Device sleep mode.
+- Notifications disabled in browser or OS settings.
+
+Fix Checklist:
+1. Ensure push notifications are enabled in Hiver.
+2. Allow notifications in your browser permissions.
+3. Restart the Hiver Chrome extension.
+4. Update the mobile app to the latest release.
+
+If delays exceed 5–10 minutes, report to Support.

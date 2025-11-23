@@ -1,0 +1,17 @@
+Title: Managing Tags in Hiver
+
+Tags help categorize conversations and automate workflows.
+
+How to Create Tags:
+1. Go to Settings > Tags.
+2. Click "New Tag".
+3. Assign a name and color category.
+
+Using Tags:
+- Can be applied manually or via automation.
+- Used for reporting, filters, and SLA policies.
+
+If tags do not appear:
+- Refresh browser
+- Check permissions
+- Ensure automation rules are not overwriting tags

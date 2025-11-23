@@ -1,0 +1,16 @@
+Title: Billing and Subscription Details
+
+Hiver billing is based on active users and selected subscription plan.
+
+Key Billing Rules:
+- Charges apply per active user seat.
+- Deactivated users stop billing automatically.
+- Invoices are available under Billing Settings.
+
+Understanding an Invoice:
+- Subscription period
+- Number of seats
+- Applied discounts
+- Taxes and credits
+
+To request invoice adjustments or refunds, contact billing support.

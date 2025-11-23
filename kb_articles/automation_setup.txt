@@ -1,0 +1,29 @@
+Title: How to Configure Automations in Hiver
+
+Automations in Hiver allow teams to automatically assign conversations, update statuses, and trigger workflows based on conditions.
+
+Steps:
+1. Go to Hiver Settings > Automations.
+2. Click "Create Automation".
+3. Choose a trigger such as:
+   - New Email Received
+   - Tag Applied
+   - Assignee Updated
+4. Configure rule conditions. Example:
+   - If Subject contains "Refund"
+   - AND Customer Type = VIP
+5. Select automation actions:
+   - Assign to agent
+   - Apply a tag
+   - Change status
+6. Save and activate the automation.
+
+Troubleshooting:
+- Make sure automation is enabled.
+- Ensure conditions do not conflict with another automation rule.
+- If automation does not run, check activity logs.
+
+Typical use cases:
+✓ Auto-assign emails based on teams  
+✓ Mark resolved conversations as closed automatically  
+✓ Add escalation tags for high priority cases

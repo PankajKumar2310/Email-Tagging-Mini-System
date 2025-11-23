@@ -1,0 +1,13 @@
+Title: Search Not Working or Returning Incorrect Results
+
+Steps to fix:
+
+1. Check spelling or try alternate keywords.
+2. Apply or remove filters (tags, date ranges).
+3. Ensure the conversation was not archived recently.
+4. Indexing may take up to 10 minutes after bulk imports.
+
+If the issue persists, provide Support with:
+- Search keywords
+- Expected results
+- Screenshot of search filters
